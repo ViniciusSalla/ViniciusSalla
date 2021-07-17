@@ -1,10 +1,12 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vini Salla</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vini Salla</h1>
 <h3 align="center">A Web Developer in formation</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciussalla" alt="vinisalla" /> </p>
 
 - 🔭 I’m currently working on [Bazze](http://www.bazze.com.br/).
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE JS and SQL.
+- 📆 Future developer mobile.
+
+- 🌱 I’m currently studying HTML, CSS, JAVASCRIPT, NODE JS , REACT NATIVE and SQL.
 
 - 🤔 I’m looking for help with [Rocketseat](https://rocketseat.com.br/).
 
