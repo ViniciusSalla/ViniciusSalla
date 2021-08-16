@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vini Salla</h1>
-<h3 align="center">A Web Developer in formation</h3>
+<h3 align="center">A Mobile Developer in formation</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciussalla" alt="vinisalla" /> </p>
 
 - 🔭 I’m currently working on [Bazze](http://www.bazze.com.br/).
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **v-inicius10@hotmail.com**
 
-- ⚡ Fun fact **😜**
+- ⚡**😜**
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
