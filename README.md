@@ -1,10 +1,10 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vini Salla</h1>
-<h3 align="center">A Mobile Developer in formation</h3>
+<h3 align="center">Mobile Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciussalla" alt="vinisalla" /> </p>
 
 - 🔭 I’m currently working on [Bazze](http://www.bazze.com.br/).
 
-- 📆 Future developer mobile.
+- 📆 Mobile developer in formation.
 
 - 🌱 I’m currently studying FLUTTER, DART, REACT NATIVE and FIREBASE.
 
