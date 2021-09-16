@@ -6,7 +6,7 @@
 
 - 📆 Future developer mobile.
 
-- 🌱 I’m currently studying HTML, CSS, JAVASCRIPT, NODE JS , REACT NATIVE and SQL.
+- 🌱 I’m currently studying FLUTTER, DART, REACT NATIVE and FIREBASE.
 
 - 🤔 I’m looking for help with [Rocketseat](https://rocketseat.com.br/).
 
@@ -15,7 +15,7 @@
 - ⚡**😜**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
+<img src="https://https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="html5"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
