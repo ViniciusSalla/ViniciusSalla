@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vini Salla</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vini Salla</h1>
 <h3 align="center">Mobile Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciussalla" alt="vinisalla" /> </p>
 
@@ -6,9 +6,7 @@
 
 - 📆 Mobile developer in formation.
 
-- 🌱 I’m currently studying FLUTTER, DART, REACT NATIVE and FIREBASE.
-
-- 🤔 I’m looking for help with [Rocketseat](https://rocketseat.com.br/).
+- 🌱 I’m currently studying Dart and Flutter.
 
 - 📫 How to reach me **v-inicius10@hotmail.com**
 
